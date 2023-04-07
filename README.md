@@ -13,3 +13,10 @@ In the data set, there are several different cases where the booster did not lan
 
 In this lab we will mainly convert those outcomes into Training Labels with 1 means the booster successfully landed 0 means it was unsuccessful.
 
+Objectives
+
+Perform exploratory Data Analysis and determine Training Labels
+
+    Exploratory Data Analysis
+    Determine Training Labels
+
